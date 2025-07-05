@@ -5,7 +5,8 @@
     "location": "Kruisplein (West‑Kruiskade area), Rotterdam",
     "info": "Diptych by Amsterdam artist Judith de Leeuw (JDL): a hyper‑realistic portrait of Rotterdam rapper Winne and a playful tribute to the diversity of the West‑Kruiskade. JDL works exclusively in black and white to focus attention on emotion and essence.",
     "photo": "https://mooirotterdam.com/wp-content/uploads/2019/01/Rotterdam-Street-art-museum-JVL.jpg",
-    "coordinates": "51.921558, 4.470809"
+    "latitude": 51.921558,
+    "longitude": 4.470809
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "location": "West‑Kruiskade, Rotterdam Street Art Museum",
     "info": "French artist Astro uses shadows, light and depth to create an optical‑illusion tunnel, evolving classic wild‑style graffiti into abstract geometry.",
     "photo": "https://mooirotterdam.com/wp-content/uploads/2019/01/Rotterdam-street-art-museum-Astro-.jpg",
-    "coordinates": "51.921305, 4.470859"
+    "latitude": 51.921305,
+    "longitude": 4.470859
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "location": "West‑Kruiskade, Rotterdam",
     "info": "Brazilian artist Alex Hornest (Onesto) explores how a city interacts with its inhabitants, inviting passer‑by engagement in this São Paulo‑inspired mural.",
     "photo": "https://mooirotterdam.com/wp-content/uploads/2019/01/Onesto-Rotterdam-street-art.jpg",
-    "coordinates": "51.921095, 4.470755"
+    "latitude": 51.921095,
+    "longitude": 4.470755
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "location": "Diergaardesingel, Rotterdam",
     "info": "Outsider Artist Maarten Wendrich depicts a man hugging a giraffe; painted by Marijn Gronert & Wessel Heij for Maison Savant on the former zoo street.",
     "photo": "https://mooirotterdam.com/wp-content/uploads/2019/01/Maarten-Wendrich-Maison-Savant-Diergaardesingel.jpg",
-    "coordinates": "51.921289, 4.469969"
+    "latitude": 51.921289,
+    "longitude": 4.469969
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "location": "West‑Kruiskade 26 (Humanitashuis), Rotterdam",
     "info": "1990s homage to Chilean president Salvador Allende; painter unknown.",
     "photo": "https://mooirotterdam.com/wp-content/uploads/2019/01/Salvador-Allende-humanitashuis-west-kruiskade.jpg",
-    "coordinates": "51.920233, 4.468247"
+    "latitude": 51.920233,
+    "longitude": 4.468247
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "location": "Corner West‑Kruiskade & Anna Paulownastraat, Rotterdam",
     "info": "Outsider Artist Sharon van Dams conceived the design; Painture Collective executed the mural in a Japanese aesthetic.",
     "photo": "https://mooirotterdam.com/wp-content/uploads/2018/12/Rotterdam-Street-Art-West-Kruiskade.jpg",
-    "coordinates": "51.920486, 4.468669"
+    "latitude": 51.920486,
+    "longitude": 4.468669
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "location": "Corner Josephstraat & West‑Kruiskade, Rotterdam",
     "info": "Anne‑Mercedes Langhorst’s giant Delft‑blue teapot unites Chinese origins and Dutch identity, created for elderly home De Leeuwenhoek.",
     "photo": "https://mooirotterdam.com/wp-content/uploads/2019/01/De-Theepot-Westkruiskade-1.jpg",
-    "coordinates": "51.920095, 4.467550"
+    "latitude": 51.920095,
+    "longitude": 4.467550
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "location": "Josephstraat, Rotterdam",
     "info": "Greek artist Insane 51 layers cyan/red images of John Travolta’s Pulp Fiction character for an anaglyph 3D effect—best viewed with red/green glasses.",
     "photo": "https://mooirotterdam.com/wp-content/uploads/2019/01/Rotterdam-Street-Art-Museum-Insane-51.jpg",
-    "coordinates": "51.920045, 4.467420"
+    "latitude": 51.920045,
+    "longitude": 4.467420
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "location": "Corner Coolsestraat & West‑Kruiskade, Rotterdam",
     "info": "Bali‑born Wild Drawing (WD) blends Eastern and Western comic influences in this large‑scale mural.",
     "photo": "https://mooirotterdam.com/wp-content/uploads/2019/01/WD-street-art-museum-Rotterdam-1.jpg",
-    "coordinates": "51.920113, 4.466448"
+    "latitude": 51.920113,
+    "longitude": 4.466448
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "location": "1e Middellandstraat, Rotterdam",
     "info": "Humorous bird mural by Rotterdam illustrator Danny “Ready2Rumbl” Rumbl, known for bright colours and playful pop‑culture references.",
     "photo": "https://mooirotterdam.com/wp-content/uploads/2019/01/Ready2Rumble-in-het-Rotterdam-street-art-museum.jpg",
-    "coordinates": "51.919475, 4.466295"
+    "latitude": 51.919475,
+    "longitude": 4.466295
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "location": "Korte Bajonetstraat, Rotterdam",
     "info": "Venetian artist Peeta warps perception with 3D anamorphosis, revealing the deceit of visual perspective through shifting geometry.",
     "photo": "https://mooirotterdam.com/wp-content/uploads/2019/01/Rotterdam-Street-art-museum-Peeta.jpg",
-    "coordinates": "51.919065, 4.464445"
+    "latitude": 51.919065,
+    "longitude": 4.464445
   },
   {
     "id": 12,
@@ -93,6 +104,7 @@
     "location": "Korte Bajonetstraat, Rotterdam",
     "info": "Outsider Artist Antoine Monod de Froideville integrates reinforcing opposites and Islamic‑inspired repeating patterns; executed by Painture Collective.",
     "photo": "https://mooirotterdam.com/wp-content/uploads/2019/01/Antoine-Monod-de-Froideville-street-art-artist.jpg",
-    "coordinates": "51.918506, 4.465069"
+    "latitude": 51.918506,
+    "longitude": 4.465069
   }
 ]
